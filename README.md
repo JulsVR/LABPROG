@@ -1,2 +1,0 @@
-# LABPROG
-PHP/HTML coding
